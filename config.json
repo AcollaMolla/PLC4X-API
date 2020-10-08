@@ -1,0 +1,1 @@
+[{"name": "machine1", "timeout": "1000", "address": "127.0.0.2"}, {"name": "machine2", "timeout": "1000", "address": "127.0.0.3"}, {"name": "machine3", "timeout": "1000", "address": "127.0.0.4"}]
